@@ -16,7 +16,7 @@
 1. 下载 `cloudflareddns.sh` 到 `/usr/syno/bin/ddns/cloudflare.sh`
 
 ```
-wget https://github.com/li-peifeng/CloudFlare-DDNS-Synology/master/cloudflareddns.sh -O /usr/syno/bin/ddns/cloudflare.sh
+wget https://github.com/li-peifeng/DDNS-CloudFlare-To-Synology/master/cloudflareddns.sh -O /usr/syno/bin/ddns/cloudflare.sh
 ```
 
 `/usr/syno/bin/ddns/cloudflare.sh` 这路径不是强制的，你可以随意输入。如果你将脚本放在其他名称或路径中，请确保使用正确的路径。
