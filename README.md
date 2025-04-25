@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://peifeng.li"><img width="184px" alt="logo" src="https://li-peifeng.github.io/isweet/logo.png" />
+  </a>
+</p>
+
 # Synology Cloudflare DDNS 脚本 📜
 
 此脚本添加 [Cloudflare](https://www.cloudflare.com/) DDNS 到 [Synology](https://www.synology.com/) NAS. 此脚本使用 Cloudflare API v4.
